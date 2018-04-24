@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RPS</string>
+    <string name="player_name">Please enter your name</string>
+    <string name="result_text">Hello World</string>
+</resources>
